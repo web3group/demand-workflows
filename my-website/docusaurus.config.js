@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Demand Documentation',
+  title: 'Demand Playbooks',
   tagline: 'Learn to scale your business with AI',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.usedemand.com',
+  url: 'https://playbooks.usedemand.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
