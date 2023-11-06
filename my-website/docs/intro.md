@@ -22,7 +22,7 @@ Demand will identify the visitors on your website, and automatically prospect us
 - Visited using a Technology like Hubspot etc.
 - Visited Landing page (Pricing, Partner Page etc)
 
-## Intent by thirdparty
+## Intent by triggers
 
 Demand will show you how to collect Crunchbase Fundraising data, or job change alerts to enable automations.
 
