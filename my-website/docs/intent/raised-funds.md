@@ -5,7 +5,6 @@ sidebar_position: 1
 # Raised Funds on Crunchbase
 
 Let's learn how to enable and leverage AI to write messages, emails and connection requests! All you need is to choose what type of automation you are doing when building the automation in the second step.
-
 ![Rasied funds on Crucnhbase](./img/fundraise.png)
 
 When selecting the two options you can learn what they mean right here:
