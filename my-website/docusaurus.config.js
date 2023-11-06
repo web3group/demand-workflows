@@ -62,7 +62,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Demand Documentation',
+        title: 'Demand Plays',
         logo: {
           alt: 'Demand Logo',
           src: 'img/logo.svg',
@@ -76,7 +76,7 @@ const config = {
           },
 
           {
-            href: 'https://app.salestools.io',
+            href: 'https://app.usedemand.com',
             label: 'Signup',
             position: 'right',
           },
