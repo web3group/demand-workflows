@@ -31,6 +31,8 @@ Once you have confirmed you are tracking visitors in your account either People 
 Start by heading over to [Automations in Demand](https://app.useemand.com/automation/create/) as shown here:
 ![AI visitor Automation step 1](./img/step1.jpg)
 
+**After choose the Filter in source to choose Technology such as Hubspot etc. in the drop down.**
+
 Once you click there you will see options to start building your Automation.
 ![AI visitor Automation step 2](./img/step2.jpg)
 

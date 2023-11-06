@@ -31,6 +31,9 @@ Once you have confirmed you are tracking visitors in your account either People 
 Start by heading over to [Automations in Demand](https://app.useemand.com/automation/create/) as shown here:
 ![AI visitor Automation step 1](./img/step1.jpg)
 
+**After choose the Filter in source to choose the landing page and set url such as /pricing in the field.**
+
+
 Once you click there you will see options to start building your Automation.
 ![AI visitor Automation step 2](./img/step2.jpg)
 

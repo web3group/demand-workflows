@@ -3,9 +3,7 @@ sidebar_position: 2
 ---
 
 # Visited website by Paid Ad
-Driving traffic to your website without conversions is like having a store full of people, but none is actually buying from you. This is 100% automated once setup.
-
-So, how to turn this frustrating experience into new business opportunities?
+Driving traffic to your website without conversions is like having a store full of people, but none is actually buying from you. Imagine you are now paying for each click and left in the Dark Funnel, well Demand will change that. Time to uncover your Dark Paid Funnel!
 
 In this guide, you’ll get 3 workflow templates that will help you identify your website visitors & add them straight to your Demand campaign so that you can turn your traffic into $$$!
 
@@ -29,7 +27,9 @@ Once you have confirmed you are tracking visitors in your account either People 
 ## Step 2 Build an Automation in Demand
 
 Start by heading over to [Automations in Demand](https://app.useemand.com/automation/create/) as shown here:
-![AI visitor Automation step 1](./img/step1.jpg)
+![AI visitor Automation step 1](./img/step1.jpg) 
+
+**After choose the Filter in source to choose paid in the drop down.**
 
 Once you click there you will see options to start building your Automation.
 ![AI visitor Automation step 2](./img/step2.jpg)
