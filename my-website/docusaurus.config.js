@@ -72,7 +72,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Learn Demand Platform',
+            label: 'Go to Plays/Workflows',
           },
 
           {
