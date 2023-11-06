@@ -6,9 +6,11 @@ sidebar_position: 2
 
 Build an automation on Demand is easy and it enables you to do LinkedIn, Email or both in one campaign.
 We see that multi touch, LinkedIn automation using AI generated higher returns to customers.
-## Create your first Automation
+## Head to LinkedIn Sales Navigator
 
 Here is the basics on how to create an automation simply head to [Demand by clicking here](https://app.usedemand.com/automation/create).
+
+![AI in Automation](./img/snjob.jpg)
 
 Next choose a starting point where the data for your campaign is coming from we import if for you if you Choose 
 - LinkedIn starting points, 
