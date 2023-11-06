@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# AI Automations
+# Raised Funds on Crunchbase
 
 Let's learn how to enable and leverage AI to write messages, emails and connection requests! All you need is to choose what type of automation you are doing when building the automation in the second step.
 

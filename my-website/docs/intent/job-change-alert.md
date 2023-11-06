@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Build an Automation
+# Job Change
 
 Build an automation on Demand is easy and it enables you to do LinkedIn, Email or both in one campaign.
 We see that multi touch, LinkedIn automation using AI generated higher returns to customers.
