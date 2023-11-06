@@ -41,6 +41,13 @@ in the line to target multiple titles at once.
 
 Number of Members is the amount or prospect from the visiting company.
 
+After this step Demand will automatically after an identified visit go to LinkedIn Sales Navigator and prospect the visitor. 
+It will return 
+- LinkedIn profile link
+- Data of the person used for AI
+- Email
+- Enrich the technology used with Techtracker
+
 Next add your actions from Connection Request, LinkedIn message and emails.
 
 ![AI visitor Automation step 3](./img/step3.jpg)
