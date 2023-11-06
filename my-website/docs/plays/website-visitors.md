@@ -8,4 +8,10 @@ Intent data from website visitor that doesn't fill a form is one of the best Int
 
 Demand will identify the visitors on your website, and automatically prospect using LinkedIn sales navigator for personas within the company visiting. The guide will show you how to get started from A to B and turn high intent visitors into customers.
 
+- Visited Website
+- Visited by paid ad
+- Visited using a Technology like Hubspot etc.
+- Visited Landing page (Pricing, Partner Page etc) 
+
 ![AI in Automation](./img/dashboard.png)
+
