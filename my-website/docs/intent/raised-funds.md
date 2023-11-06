@@ -29,7 +29,7 @@ Step 1 is to build an automation with starting point my companies:
 Next select prospect from LinkedIn, Once you click there you will see options to start building your Automation.
 ![AI visitor Automation step 2](../visited-website/img/step2.jpg)
 
-Keep in mind Job title is comma seperated so you can put in somehting like:
+Keep in mind Job title is comma seperated so you can put in something like:
 - VP Sales, Director of Sales, VP Marketing etc
 
 in the line to target multiple titles at once.
@@ -45,3 +45,6 @@ It will return
 
 Next add your actions from Connection Request, LinkedIn message and emails.
 
+After that you finish designing your campaign connect Zapier, turn on Piloterr and let it run automatically and now you start to build connection and relations with companies that just finished fundraising.
+
+To set webhooks from Zapier to Demand find the guide here [Webhook guide](https://support.usedemand.com/en/articles/8436929-webhooks/)
