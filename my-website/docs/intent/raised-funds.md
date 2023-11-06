@@ -24,10 +24,10 @@ Once you are done you need to go to Demand under integration and create a webhoo
 
 Step 1 is to build an automation with starting point my companies:
 
-![Rasied funds on Crucnhbase](/img/crunchbase2.jpg)
+![Rasied funds on Crucnhbase](./img/crunchbase2.jpg)
 
 Next select prospect from LinkedIn, Once you click there you will see options to start building your Automation.
-![AI visitor Automation step 2](../visited-website/img/step2.jpg)
+![AI visitor Automation step 2](./img/step2.jpg)
 
 Keep in mind Job title is comma seperated so you can put in something like:
 - VP Sales, Director of Sales, VP Marketing etc
