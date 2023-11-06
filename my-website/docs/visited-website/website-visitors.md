@@ -11,4 +11,6 @@ In this guide, you’ll get 3 workflow templates that will help you identify you
 
 ## 5-step workflow to target companies that visited your website
 
+Below it will show how your campaign will look like all you need to ensure is that you have an account with [Demand](https://app.useemand.com) and have the [website visitor tracking code installed](https://app.usedemand.com).
+After the overview you will find the full step by step guide:
 ![AI visitor Automation](./img/visited.png)
