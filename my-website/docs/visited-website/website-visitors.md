@@ -51,3 +51,18 @@ It will return
 Next add your actions from Connection Request, LinkedIn message and emails.
 
 ![AI visitor Automation step 3](./img/step3.jpg)
+
+BONUS use AI in all requests when building the outreach:
+
+![AI visitor Automation step 4](./img/step4.jpg)
+
+Next choose the AI model you like Demand to use, to personlize every single message
+
+![AI visitor Automation step 5](./img/step5.jpg)
+
+next choose the AI type you like:
+
+
+## Step 3 Start the Automation
+
+Once you set all your messaging and templates you simply hit start and it will run 24/7. No need for thirdparty integrations or complex setup Demand is easy and works out of the box!
