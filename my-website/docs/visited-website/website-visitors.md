@@ -11,4 +11,4 @@ In this guide, you’ll get 3 workflow templates that will help you identify you
 
 ## 5-step workflow to target companies that visited your website
 
-
+![AI visitor Automation](./img/visited.png)
